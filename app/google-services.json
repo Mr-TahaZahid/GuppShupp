@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478689040883",
+    "firebase_url": "https://gupp-shupp.firebaseio.com",
+    "project_id": "gupp-shupp",
+    "storage_bucket": "gupp-shupp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478689040883:android:77fd2871aa59e58c549a86",
+        "android_client_info": {
+          "package_name": "com.wemo.guppshupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478689040883-49evll5039098mvblggnbdl8tj41tam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCblNQ3sJfxlM8-WxH68oVO4DNXamW2xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478689040883-49evll5039098mvblggnbdl8tj41tam4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
